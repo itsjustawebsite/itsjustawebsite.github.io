@@ -1,2 +1,2 @@
 # itsjustawebsite.github.io
-Hosted website for my thought, etc. 
+Hosted website for my thoughts and etc. 
